@@ -1,5 +1,9 @@
-# w42g8
+
 BÁO CÁO MÔN HỌC
+*Thành viên
+1 Vũ Ngọc Đức
+2 Đõ Quang Đạt
+3 Trần Đức Huy
 
 
 
